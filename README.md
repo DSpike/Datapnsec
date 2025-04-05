@@ -1,1 +1,1 @@
-# Ensuring Data Privacy and Security via K-anonymity 
+## Ensuring Data Privacy and Security via K-anonymity 
